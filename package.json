@@ -1,0 +1,23 @@
+{
+  "name": "demo_casino",
+  "version": "1.0.0",
+  "description": "cypress automation for demo casino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcgongora/demo_casino.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcgongora/demo_casino/issues"
+  },
+  "homepage": "https://github.com/rcgongora/demo_casino#readme",
+  "devDependencies": {
+    "cypress": "^12.15.0"
+  }
+}
